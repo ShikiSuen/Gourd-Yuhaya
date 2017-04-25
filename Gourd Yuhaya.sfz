@@ -1,0 +1,492 @@
+// Sfz exported from sf2 by Polyphone
+// Name     :Gourd-Yuhaya
+// Author   :Shiki Suen (Programmer), Yuhaya Wu (Performer)
+// Copyright:Creative Commons Attribution-ShareAlike 4.0 International License
+// Date     :2017/04/21
+// Comment  :
+
+<group>
+sw_lokey=E1 sw_hikey=A#1 sw_last=G#1
+sw_label=Dual Lick
+lokey=E4 hikey=C6
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-G3.flac
+lokey=E4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-22
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-A3.flac
+lokey=G#4 hikey=A4
+pitch_keycenter=A4
+pan=0
+tune=-26
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-B3.flac
+lokey=A#4 hikey=B4
+pitch_keycenter=B4
+pan=0
+tune=-20
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-C4.flac
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+tune=-24
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-D4.flac
+lokey=C#5 hikey=D5
+pitch_keycenter=D5
+pan=0
+tune=-16
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-E4.flac
+lokey=D#5 hikey=F5
+pitch_keycenter=E5
+pan=0
+tune=-22
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-G4.flac
+lokey=F#5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-31
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualLick-A4.flac
+lokey=G#5 hikey=C6
+pitch_keycenter=A5
+pan=0
+tune=-34
+offset=0
+
+<group>
+sw_lokey=E1 sw_hikey=A#1 sw_last=G1
+sw_label=Dual Sustain
+lokey=E4 hikey=C6
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-G3.flac
+lokey=E4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-20
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-A3.flac
+lokey=G#4 hikey=A4
+pitch_keycenter=A4
+pan=0
+tune=-26
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-B3.flac
+lokey=A#4 hikey=B4
+pitch_keycenter=B4
+pan=0
+tune=-18
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-C4.flac
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+tune=-24
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-D4.flac
+lokey=C#5 hikey=D5
+pitch_keycenter=D5
+pan=0
+tune=-12
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-E4.flac
+lokey=D#5 hikey=F5
+pitch_keycenter=E5
+pan=0
+tune=-25
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-G4.flac
+lokey=F#5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-34
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-DualSustain-A4.flac
+lokey=G#5 hikey=C6
+pitch_keycenter=A5
+pan=0
+tune=-32
+offset=0
+
+<group>
+lokey=C3 hikey=F3
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-Groove-C2.flac
+lokey=C3 hikey=C3
+pitch_keycenter=C3
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Groove-C#2.flac
+lokey=C#3 hikey=C#3
+pitch_keycenter=C#3
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Groove-D2.flac
+lokey=D3 hikey=D3
+pitch_keycenter=D3
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Groove-D#2.flac
+lokey=D#3 hikey=D#3
+pitch_keycenter=D#3
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Groove-E2.flac
+lokey=E3 hikey=E3
+pitch_keycenter=E3
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Groove-F2.flac
+lokey=F3 hikey=F3
+pitch_keycenter=F3
+pan=0
+tune=-27
+offset=0
+
+<group>
+sw_lokey=E1 sw_hikey=A#1 sw_last=F#1
+sw_label=Lick
+lokey=E4 hikey=C6
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-Lick-G3.flac
+lokey=E4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-23
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-A3.flac
+lokey=G#4 hikey=A4
+pitch_keycenter=A4
+pan=0
+tune=-21
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-B3.flac
+lokey=A#4 hikey=B4
+pitch_keycenter=B4
+pan=0
+tune=-21
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-C4.flac
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-D4.flac
+lokey=C#5 hikey=D5
+pitch_keycenter=D5
+pan=0
+tune=-20
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-E4.flac
+lokey=D#5 hikey=F5
+pitch_keycenter=E5
+pan=0
+tune=-28
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-G4.flac
+lokey=F#5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-29
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Lick-A4.flac
+lokey=G#5 hikey=C6
+pitch_keycenter=A5
+pan=0
+tune=-37
+offset=0
+
+<group>
+sw_lokey=E1 sw_hikey=A#1 sw_last=A1
+sw_label=Staccato
+lokey=E4 hikey=C6
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-G3.flac
+lokey=E4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-7
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-A3.flac
+lokey=G#4 hikey=A4
+pitch_keycenter=A4
+pan=0
+tune=-17
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-B3.flac
+lokey=A#4 hikey=B4
+pitch_keycenter=B4
+pan=0
+tune=-14
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-C4.flac
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+tune=-16
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-D4.flac
+lokey=C#5 hikey=D5
+pitch_keycenter=D5
+pan=0
+tune=1
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-E4.flac
+lokey=D#5 hikey=F5
+pitch_keycenter=E5
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-G4.flac
+lokey=F#5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-40
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Staccato-A4.flac
+lokey=G#5 hikey=C6
+pitch_keycenter=A5
+pan=0
+tune=-28
+offset=0
+
+<group>
+sw_lokey=E1 sw_hikey=A#1 sw_last=F1
+sw_label=Sustain
+lokey=E4 hikey=C6
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-G3.flac
+lokey=E4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-21
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-A3.flac
+lokey=G#4 hikey=A4
+pitch_keycenter=A4
+pan=0
+tune=-19
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-B3.flac
+lokey=A#4 hikey=B4
+pitch_keycenter=B4
+pan=0
+tune=-16
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-C4.flac
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+tune=-27
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-D4.flac
+lokey=C#5 hikey=D5
+pitch_keycenter=D5
+pan=0
+tune=-6
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-E4.flac
+lokey=D#5 hikey=F5
+pitch_keycenter=E5
+pan=0
+tune=-25
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-G4.flac
+lokey=F#5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-29
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Sustain-A4.flac
+lokey=G#5 hikey=C6
+pitch_keycenter=A5
+pan=0
+tune=-30
+offset=0
+
+<group>
+sw_lokey=E1 sw_hikey=A#1 sw_last=E1
+sw_label=Vibrato sw_default=E1
+lokey=E4 hikey=C6
+loop_mode=no_loop
+ampeg_attack=0.0019
+ampeg_release=0.033
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-G3.flac
+lokey=E4 hikey=G4
+pitch_keycenter=G4
+pan=0
+tune=-21
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-A3.flac
+lokey=G#4 hikey=A4
+pitch_keycenter=A4
+pan=0
+tune=-18
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-B3.flac
+lokey=A#4 hikey=B4
+pitch_keycenter=B4
+pan=0
+tune=-8
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-C4.flac
+lokey=C5 hikey=C5
+pitch_keycenter=C5
+pan=0
+tune=-23
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-D4.flac
+lokey=C#5 hikey=D5
+pitch_keycenter=D5
+pan=0
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-E4.flac
+lokey=D#5 hikey=F5
+pitch_keycenter=E5
+pan=0
+tune=-28
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-G4.flac
+lokey=F#5 hikey=G5
+pitch_keycenter=G5
+pan=0
+tune=-29
+offset=0
+
+<region>
+sample=2448-FLAC\Gourd-Vibrato-A4.flac
+lokey=G#5 hikey=C6
+pitch_keycenter=A5
+pan=0
+tune=-28
+offset=0
+
